@@ -32,3 +32,10 @@ I DO:
 ✔️ Guarantee the quality.
 ✔️ Enjoy challenges.
 ✔️ Responsive.
+
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=karaoglan&theme=gruvbox_light&layout=compact"/>
+</div>
+
