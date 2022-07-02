@@ -1,4 +1,4 @@
-# Eçxperienced Blockchain Developer & Senior Fullstack Developer  
+# Experienced Blockchain Developer & Senior Fullstack Developer  
 
 ⭐ 5/5 Rating ✔️ Fluent English ✔️ Fluent German 💡 Problem Solver 💡 Team Player
 
@@ -8,15 +8,15 @@
 ---------------------------
 - ✅ Spring Boot & Java
 - ✅ Blockchain technologies
--✅ Solidity & Web3, Etherjs, Metamask integrations
--✅ Angular 2+, React, CSS, HTML, Tailwindcss, Angular Material
--✅ NodeJs, NestJs
--✅ Django, Python
--✅ Data collection and Web scraping
--✅ Requests, Selenium Webdriver & Chrome Extensions
--✅ Web / Desktop
--✅ MySQL, PostgreSQL, MongoDB
--✅ Camunda BPMN
+- ✅ Solidity & Web3, Etherjs, Metamask integrations
+- ✅ Angular 2+, React, CSS, HTML, Tailwindcss, Angular Material
+- ✅ NodeJs, NestJs
+- ✅ Django, Python
+- ✅ Data collection and Web scraping
+- ✅ Requests, Selenium Webdriver & Chrome Extensions
+- ✅ Web / Desktop
+- ✅ MySQL, PostgreSQL, MongoDB
+- ✅ Camunda BPMN
 
 
 > Core skills:
@@ -28,10 +28,10 @@
 
 > I DO:
 ---------------------------
--✔️ Deliver work on time.
--✔️ Guarantee the quality.
--✔️ Enjoy challenges.
--✔️ Responsive.
+- ✔️ Deliver work on time.
+- ✔️ Guarantee the quality.
+- ✔️ Enjoy challenges.
+- ✔️ Responsive.
 
 > Language usage
 
