@@ -45,7 +45,8 @@
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=karaoglan"/>
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/karaoglan/karaoglan/assets/github-contribution-grid-snake.svg" />
+	![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+	![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 <div align="center">
